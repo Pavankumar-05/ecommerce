@@ -1,4 +1,4 @@
-package com.dnb.ecommerce.payload.controller;
+package com.dnb.ecommerce.controller;
 
 import java.util.List;
 import java.util.Optional;
